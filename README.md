@@ -1,0 +1,2 @@
+# NLP_AITH_2025
+HW for NLP ciurce ITMO
